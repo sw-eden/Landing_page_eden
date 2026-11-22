@@ -4,3 +4,12 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.everything{
+    display: flex;
+    flex: 1;
+}
+
+ul{ 
+    list-style-type: none;
+}
