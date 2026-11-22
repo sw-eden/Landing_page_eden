@@ -28,3 +28,8 @@ ul{
     display: flex;
     flex-direction: row;
 }
+.placeholder{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
