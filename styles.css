@@ -18,3 +18,9 @@ ul{
     display: flex;
     justify-content: space-between;
 }
+.right-header {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-right: 30px;
+}
