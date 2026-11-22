@@ -17,6 +17,7 @@ ul{
 .header{
     display: flex;
     justify-content: space-between;
+    background-color: #1F2937;
 }
 .right-header {
     display: flex;
@@ -27,9 +28,13 @@ ul{
 .main-area{
     display: flex;
     flex-direction: row;
+    background-color: #1F2937;
 }
 .place-holder{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.footer{
+    background-color: #1F2937;
 }
