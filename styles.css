@@ -51,3 +51,9 @@ ul{
     color:#E5E7EB;
    
 }
+.blue-ending-box{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+}
