@@ -37,4 +37,7 @@ ul{
 }
 .footer{
     background-color: #1F2937;
+    display: flex;
+    align-content: center;
+    justify-content: center;
 }
