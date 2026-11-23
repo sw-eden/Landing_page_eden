@@ -56,7 +56,9 @@ ul{
     justify-content: center;
     align-items: center;
     background-color: #3882F6;
-    
+    padding:16px;
+    border-radius: 7px;
+
 }
 .part-four {
 padding: 30px;
