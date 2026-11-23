@@ -95,3 +95,7 @@ padding: 30px;
     justify-content: center;
     align-items: center;
 }
+.part-two{
+    display: flex;
+    flex-direction: column;
+}
