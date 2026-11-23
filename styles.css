@@ -89,3 +89,8 @@ padding: 30px;
     margin-left: 30px;
 
 }
+.quoter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
