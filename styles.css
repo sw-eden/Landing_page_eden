@@ -72,5 +72,20 @@ padding: 30px;
 }
 .part-three{
     background-color: #E5E7EB;
+    padding: 30px;
+    
    
+}
+
+.quote{
+    display: flex;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    justify-content: center;
+    align-items: center;
+    max-width: 800px;
+    margin-left: 30px;
+
 }
