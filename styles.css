@@ -87,13 +87,15 @@ padding: 30px;
     justify-content: center;
     align-items: center;
     max-width: 800px;
-    margin-left: 30px;
+    margin-left:70px;
+    text-align: center;
 
 }
 .quoter {
     display: flex;
     justify-content: center;
     align-items: center;
+    text-align: right;
 }
 .part-two{
     display: flex;
